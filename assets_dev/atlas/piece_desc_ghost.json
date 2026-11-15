@@ -1,0 +1,25 @@
+{
+    "pixelArt": false,
+    "rectangles": [
+        {"x": 30,   "y": 40,   "w": 95, "h": 110},
+        {"x": 203, "y": 40,   "w": 95, "h": 110},
+        {"x": 374, "y": 40,   "w": 95, "h": 110},
+        {"x": 30,   "y":200, "w": 95, "h": 110},
+        {"x": 201, "y": 200, "w": 95, "h": 110},
+        {"x": 374, "y": 200, "w": 95, "h": 110},
+        {"x": 30,   "y": 363, "w": 95, "h": 110},
+        {"x": 200, "y": 363, "w": 95, "h": 110},
+        {"x": 375, "y": 376, "w": 94, "h": 96}
+    ],
+    "groups": [
+        {"name": "piece_A_Ghost", "frames": [0]},
+        {"name": "piece_B_Ghost", "frames": [1]},
+        {"name": "piece_C_Ghost", "frames": [2]},
+        {"name": "piece_D_Ghost", "frames": [3]},
+        {"name": "piece_E_Ghost", "frames": [4]},
+        {"name": "piece_F_Ghost", "frames": [5]},
+        {"name": "piece_G_Ghost", "frames": [6]},
+        {"name": "piece_H_Ghost", "frames": [7]},
+        {"name": "block_striped_Ghost", "frames": [8]}
+    ]
+}

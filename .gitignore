@@ -1,0 +1,16 @@
+# Build
+out/
+_out/
+build/
+test_core
+*.exe
+
+# IDE
+.vs/
+*.user
+*.suo
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
